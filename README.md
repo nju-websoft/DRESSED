@@ -19,7 +19,12 @@ If you use this work or code, please kindly cite the following paper:
 
 ```
 @inproceedings{DRESSED,
-  author    = {Qingxia Liu and Yue Chen and Gong Cheng and Evgeny Kharlamov and Junyou Li and Yuzhong Qu},
+  author    = {Qingxia Liu and
+                Yue Chen and
+                Gong Cheng and
+                Evgeny Kharlamov and
+                Junyou Li and
+                Yuzhong Qu},
   title     = {Entity Summarization with User Feedback},
   booktitle = {ESWC},
   year      = {2020}
