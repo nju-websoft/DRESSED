@@ -32,7 +32,7 @@ def load_desc(ds_name_str):
 			desc_size = len(desc)
 			if desc_size>max_desc_len:
 				max_desc_len = desc_size
-	return eid_desc_dict, desc_size
+	return eid_desc_dict, max_desc_len
 
 def load_gold(ds_name_str, topk_str):
 	in_file = os.path.join(IN_PARSED, 'eugold_cleaned_{}_{}.txt'.format(ds_name_str, topk_str))
