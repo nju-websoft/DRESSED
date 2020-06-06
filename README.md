@@ -1,5 +1,5 @@
 # DRESSED
-Source code for paper "Entity Summarization with User Feedback"
+Source code for paper "Entity Summarization with User Feedback" (Best research paper of ESWC 2020)
 
 ## Dataset
 
